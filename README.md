@@ -1,7 +1,7 @@
 # Age In Minutes
 This app is a simple application that calculates your age in minutes once inputted.
 
-![alt tag](![image](https://user-images.githubusercontent.com/20524736/183261436-4f1afd5a-505f-4a9e-a045-e97faf08d90c.png))
+![alt tag](![image](https://imgur.com/a/GC0Ubt7))
 
 ## How It's Made:
 
